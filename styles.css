@@ -28,6 +28,7 @@ body{
     background-color: white;
     color: var(--Desaturated-blue);
     border-radius: 20px;
+    overflow: hidden;
 }
 
 .order-heading{
@@ -42,6 +43,10 @@ body{
 
 .container{
  padding: 30px;   
+}
+
+.container > *{
+    margin: 13px 0;
 }
 
 .order-description{
