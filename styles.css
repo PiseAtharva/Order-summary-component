@@ -18,3 +18,9 @@ body{
     background-color: white;
     color: var(--Very-pale-blue);
 }
+
+.order-heading{
+    color: var(--Dark-blue);
+    font-weight: 900;
+    font-size: 32px;
+}
